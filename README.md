@@ -2,4 +2,4 @@
 
 ---
 
-Just release **v0.0.4** of [loguru-mypy](https://github.com/kornicameister/loguru-mypy/releases/tag/v0.0.4)
+Just released **v0.0.4** of [loguru-mypy](https://github.com/kornicameister/loguru-mypy/releases/tag/v0.0.4)
